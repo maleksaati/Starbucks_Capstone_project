@@ -11,11 +11,11 @@ A detailed report of analysis for this project is available [here](https://mediu
 
 the data is contained in three files:
 
-<![if !supportLists]>· <![endif]>portfolio.json — containing offer ids and metadata about each offer (duration, type, etc.).
+portfolio.json — containing offer ids and metadata about each offer (duration, type, etc.).
 
-<![if !supportLists]>· <![endif]>profile.json — demographic data for each customer.
+profile.json — demographic data for each customer.
 
-<![if !supportLists]>· <![endif]>transcript.json — records for transactions, offers received, offers viewed, and offers complete.
+transcript.json — records for transactions, offers received, offers viewed, and offers complete.
 
 Here is the schema and explanation of each variable in the files:
 
